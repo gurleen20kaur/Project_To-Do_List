@@ -1,2 +1,3 @@
 # Project_To-Do_List
-This is a To-do List in JS
+This is a To-do List 
+This project used JavaScript
